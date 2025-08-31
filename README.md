@@ -13,4 +13,8 @@ AWS EKS • Terraform • ArgoCD • Prometheus • Grafana • Model Context Pr
 - [DevSecOps pipeline](screenshots/3.png)
 - [ArgoCD GitOps](screenshots/4.png)
 - [Grafana dashboard](screenshots/5.png)
-```
+
+## Screenshots
+
+- [Summary](documents/summary.md)
+- [Report](documents/report.md)
