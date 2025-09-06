@@ -1,20 +1,21 @@
-# Project 12: MCP Meets K8s
+# Project 11: MCP IaC Security
 
-Model Context Protocol server for Kubernetes operations. AWS EKS with ArgoCD GitOps. Prometheus and Grafana monitoring. Security scanning with Checkov, Semgrep, Gitleaks, and Trivy.
+MCP server analysing Checkov findings and generating Terraform fixes. GitHub Actions integration for security scanning. Node.js implementation for Claude Desktop.
 
 ## Technologies
 
-AWS EKS • Terraform • ArgoCD • Prometheus • Grafana • Model Context Protocol • Node.js • Kubernetes • Checkov • Semgrep • Gitleaks • Trivy
+Node.js • Model Context Protocol • Checkov • Terraform • GitHub Actions • Claude Desktop
 
 ## Screenshots
 
-- [Natural language cluster query](screenshots/1.png)
-- [Cluster analysis through MCP](screenshots/2.png)
-- [DevSecOps pipeline](screenshots/3.png)
-- [ArgoCD GitOps](screenshots/4.png)
-- [Grafana dashboard](screenshots/5.png)
+![Checkov findings](screenshots/1.png)
 
-## Screenshots
+![Claude prompt](screenshots/2.png)
 
-- [Summary](documents/summary.md)
+![Analysis summary](screenshots/3.png)
+
+## Documents
+
 - [Report](documents/report.md)
+- [Fixed Terraform](documents/fixed-terraform.tf)
+- [Changes made](documents/changes-made.md)
