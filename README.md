@@ -8,15 +8,15 @@ AWS EKS • Terraform • ArgoCD • Prometheus • Grafana • Model Context Pr
 
 ## Screenshots
 
-- [Natural language cluster query](screenshots/1.png)
+![Natural language cluster query](screenshots/1.png)
 
-- [Cluster analysis through MCP](screenshots/2.png)
+![Cluster analysis through MCP](screenshots/2.png)
 
-- [DevSecOps pipeline](screenshots/3.png)
+![DevSecOps pipeline](screenshots/3.png)
 
-- [ArgoCD GitOps](screenshots/4.png)
+![ArgoCD GitOps](screenshots/4.png)
 
-- [Grafana dashboard](screenshots/5.png)
+![Grafana dashboard](screenshots/5.png)
 
 ## Documents
 
