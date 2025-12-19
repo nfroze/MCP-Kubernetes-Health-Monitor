@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>MCP Kubernetes Health Monitor</title>
+      <title>Project 12: MCP Meets K8s</title>
       <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -66,7 +66,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="card">
-        <h1><span class="status-indicator"></span>MCP Kubernetes Health Monitor</h1>
+        <h1><span class="status-indicator"></span>Project 12: MCP Meets K8s</h1>
         <p class="info">Running on EKS</p>
         <div class="pod">${POD_NAME}</div>
       </div>

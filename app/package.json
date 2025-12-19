@@ -1,7 +1,7 @@
 {
   "name": "mcp-k8s-app",
   "version": "1.0.0",
-  "description": "MCP Kubernetes Health Monitor Dashboard",
+  "description": "Project 12: MCP Meets K8s Dashboard",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
