@@ -48,11 +48,11 @@ GitHub Actions pipelines enforce security at commit time—Checkov scans Terrafo
 
 ![Cluster analysis through MCP](screenshots/2.png)
 
-![Application running on EKS](screenshots/3.png)
+![Application running on EKS](screenshots/3.png?v=2)
 
-![ArgoCD GitOps](screenshots/4.png)
+![ArgoCD GitOps](screenshots/4.png?v=2)
 
-![Grafana dashboard](screenshots/5.png)
+![Grafana dashboard](screenshots/5.png?v=2)
 
 ## Author
 
