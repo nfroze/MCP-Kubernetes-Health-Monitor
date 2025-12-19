@@ -14,7 +14,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      Project     = "mcp-meets-k8s"
+      Project     = "mcp-kubernetes-health-monitor"
       Environment = var.environment
       ManagedBy   = "terraform"
       Owner       = "noah-frost"
